@@ -82,3 +82,7 @@ function StudentInfo() {
 
 export default StudentInfo;
 
+https://docs.google.com/document/d/1769faL2gnSXRCdUkdvPrBwYKhfPSCydJescrR4CUf8s/edit?usp=sharing
+
+npx create-react-app <name>
+pip install --upgrade django-filter
